@@ -1,0 +1,44 @@
+@media(max-width: 990px) {
+    header {
+        gap: 120px;
+
+    }
+
+    .section1 {
+        padding: 200px 200px 200px 200px;
+    }
+
+    .section_text1 {
+        font-size: 30px;
+
+    }
+
+    .section6_text_title {
+
+        font-size: 20px;
+
+    }
+
+    .section6_text_text {
+        font-size: 13px;
+    }
+
+    .section6_feedback {
+
+        font-size: 20px;
+
+    }
+
+    .section6_button {
+        width: 250px;
+        height: 45px;
+
+    }
+
+}
+
+
+
+
+
+    

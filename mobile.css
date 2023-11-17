@@ -1,0 +1,19 @@
+@media (max-width: 800px) {
+    .navigation {
+        padding: 25px 82px;
+        width: 350px;
+        position: fixed;
+        top: 84px;
+        left: -100%;
+        background-color: rgba(64, 33, 1, 0.8);
+        transition: 0.3s linear;
+    }
+
+    .fa-bars {
+        display: block;
+    }
+
+    .show {
+        left: 0;
+    }
+}

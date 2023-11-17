@@ -1,0 +1,35 @@
+@media(max-width: 835px) {
+    .navigation_ul {
+        gap: 35px;
+    }
+
+    .header_text {
+        font-size: 25px;
+    }
+
+    .section1 {
+        padding: 200px 100px 200px 100px;
+    }
+
+    .section6_text_title {
+
+        font-size: 15px;
+
+    }
+
+    .section6_minediv {
+        height: 564px;
+        flex-wrap: wrap;
+        margin-bottom: 98px;
+     }
+  
+    .section6_feedback {
+
+    margin-top: 68px;
+
+    }
+    footer {
+        margin-top: 400px;
+    }
+}
+
